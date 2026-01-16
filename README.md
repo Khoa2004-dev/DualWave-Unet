@@ -58,7 +58,7 @@ All MRI volumes are:
 ## Training Process
 1. Launch training from `main.py` or `main.ipynb`.  
 2. Configure paths to datasets, checkpoints, and output directories.  
-3. Modify model parameters (e.g., number of DB-ViT blocks or window size).  
+3. Modify model parameters (e.g., number of blocks or window size).  
 4. Training setup:
    - Optimizer: **AdamW**
    - Learning rate: `1e-4`
