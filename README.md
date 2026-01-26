@@ -74,4 +74,4 @@ All MRI volumes are:
 
 ## Pretrained Weights
 You can download our pretrained model checkpoints from Google Drive:  
-🔗 **[Download Weights (DualWave-UNet, BraTS2021)](https://gofile.io/d/qP0mSN)**  
+🔗 **[Download Weights (DualWave-UNet, BraTS2021)](https://huggingface.co/KhoaHuynh/DualWave-UNet)**  
